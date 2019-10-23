@@ -1,4 +1,4 @@
-endpoint: https://eu1.prisma.sh/21300492-f37c8b/prismagram/dev
+endpoint: https://eu1.prisma.sh/jaewonyoon/prismagram/dev
 datamodel: datamodel.prisma
 
 generate:
